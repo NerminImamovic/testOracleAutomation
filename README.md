@@ -1,12 +1,26 @@
 <b>Test Oracle Automation with Machine Learning: A Feasibility Study</b>
 
-Examiner: Mobyen Uddin Ahmed
-M¨alardalen University, V¨aster˚as, Sweden
-Supervisor: Adnan Causevic
-M¨alardalen University, V¨aster˚as, Sweden
-Company Supervisor: Ola Sellin,
-Bombardier Transportation, Ostra Ringvgen 2, ¨
-722 14 V¨aster˚as
+Mälardalen University 
+
+School of Innovation Design and Engineering
+
+Västerås, Sweden
+
+Thesis for the Degree of Master of Science (60 credits) in Computer
+Science with Specialization in Software Engineering - 15.0 credits
+
+Nermin Imamovic
+
+nic17001@student.mdh.se
+
+<b>Examiner</b>: Mobyen Uddin Ahmed
+Mälardalen University, Västerås, Sweden
+
+<b>Supervisor</b>: Adnan Causevic
+Mälardalen University, Västerås, Sweden
+
+<b>Company Supervisor</b>: Ola Sellin,
+Bombardier Transportation, Ostra Ringvgen 2, 722 14 Västerås, Sweden
 
 <b>Abstract</b>
 
@@ -33,6 +47,7 @@ what can be used for solving the test oracle problem where signals are part of v
 engineering, signal classification, time-series analysis, time-series classification, multivariate
 time-series classification</i>
 
+<b>References</b>
 
 [1] Ieee standard glossary of software engineering terminology. IEEE Std 610.12-1990, pages 1–84,
 Dec 1990.
