@@ -1,4 +1,12 @@
-Test Oracle Automation with Machine Learning: A Feasibility Study
+<b>Test Oracle Automation with Machine Learning: A Feasibility Study</b>
+
+Examiner: Mobyen Uddin Ahmed
+M¨alardalen University, V¨aster˚as, Sweden
+Supervisor: Adnan Causevic
+M¨alardalen University, V¨aster˚as, Sweden
+Company Supervisor: Ola Sellin,
+Bombardier Transportation, Ostra Ringvgen 2, ¨
+722 14 V¨aster˚as
 
 <b>Abstract</b>
 
