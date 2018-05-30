@@ -1,6 +1,6 @@
 Test Oracle Automation with Machine Learning: A Feasibility Study
 
-<b>Abstract</>
+<b>Abstract</b>
 
 The train represents a complex system, where every sub-system has an important role. If a subsystem
 doesn’t work how it should, the correctness of whole the train can be uncertain. To ensure
@@ -21,9 +21,9 @@ collected, analyzed and evaluated. We proposed a method for solving the oracle p
 machine learning approach for different for certain use case. Also, we explained different steps
 what can be used for solving the test oracle problem where signals are part of verdict process.
 
-Keywords: Test oracle automation, the oracle problem, machine learning, classification, feature
+<b>Keywords</b>: <i>Test oracle automation, the oracle problem, machine learning, classification, feature
 engineering, signal classification, time-series analysis, time-series classification, multivariate
-time-series classification
+time-series classification</i>
 
 
 [1] Ieee standard glossary of software engineering terminology. IEEE Std 610.12-1990, pages 1–84,
