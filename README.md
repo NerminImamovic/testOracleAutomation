@@ -2,17 +2,23 @@ Test Oracle Automation with Machine Learning: A Feasibility Study
 
 1] Ieee standard glossary of software engineering terminology. IEEE Std 610.12-1990, pages 1–84,
 Dec 1990.
+
 [2] Ieee standard for software test documentation. IEEE Std 829-1998, pages 1–64, Dec 1998.
+
 [3] Ieee approved draft standard for system, software and hardware verification and validation.
 IEEE P1012/D17, August 2015, pages 1–262, Jan 2015.
+
 [4] A dictionary of computer science. Oxford reference online premium. Oxford University Press,
 Oxford], seventh edition.. edition, 2016.
+
 [5] D. Agarwal, D. E. Tamir, M. Last, and A. Kandel. A comparative study of artificial neural
 networks and info-fuzzy networks as automated oracles in software testing. IEEE Transactions
 on Systems, Man, and Cybernetics - Part A: Systems and Humans, 42(5):1183–1193, Sept
 2012.
+
 [6] Charu C. Aggarwal. Data Classification: Algorithms and Applications. Chapman & Hall/CRC,
 1st edition, 2014.
+
 [7] R. Almaghairbe and M. Roper. Automatically classifying test results by semi-supervised
 learning. In 2016 IEEE 27th International Symposium on Software Reliability Engineering
 (ISSRE), pages 116–126, Oct 2016.
