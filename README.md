@@ -1,4 +1,4 @@
-<b>Test Oracle Automation with Machine Learning: A Feasibility Study</b>
+<h3><b>Test Oracle Automation with Machine Learning: A Feasibility Study</b></h3>
 
 Mälardalen University 
 
@@ -110,7 +110,7 @@ Software Testing and Analysis, ISSTA 2016, pages 225–234, New York, NY, USA, 2
 [18] Ben D. Fulcher and Nick S. Jones. Highly comparative, feature-based time-series classification.
 CoRR, abs/1401.3531, 2014.
 
-19] C. Gherasim. Signal Processing for Voltage and Current Measurements in Power Quality
+[19] C. Gherasim. Signal Processing for Voltage and Current Measurements in Power Quality
 Assessment. Katholieke Universiteit Leuven, 2006.
 
 [20] W. E. Howden. Theoretical and empirical studies of program testing. IEEE Transactions on
