@@ -23,7 +23,4 @@ clc;
 clear all;
 
 load('trainedModel.mat')
-
-test = extractFeaturesTesting('C:\Users\nimamovi.BT\Desktop\Implementation\Data', 'Dobar1.mat')
-
-yfit = trainedModel.predictFcn(test)
+% 

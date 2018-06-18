@@ -1,4 +1,4 @@
-function [max_after_sampling, amplitude, differ] = features_MWT_P_In2_1_PII_DCUM1_XU_DcLk(MWT_P_In2_1_PII_DCUM1_XU_DcLk)
+function [max_after_sampling, amplitude] = features_MWT_P_In2_1_PII_DCUM1_XU_DcLk(MWT_P_In2_1_PII_DCUM1_XU_DcLk)
 
     MWT_P_In2_1_PII_DCUM1_XU_DcLk = MWT_P_In2_1_PII_DCUM1_XU_DcLk(1:50000);
 
